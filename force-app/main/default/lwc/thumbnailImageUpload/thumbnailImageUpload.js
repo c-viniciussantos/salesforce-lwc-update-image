@@ -1,3 +1,9 @@
+/**
+ * @Descrição               : JavaScript para acionar a troca da imagem
+ * @Autor                   : C. Vinícius Santos (c.viniciussantos@outlook.com)
+ * @Ultima modificação em   : 08-05-2022
+ * @Ultima modificação por  : C. Vinícius Santos (c.viniciussantos@outlook.com)
+**/
 import { LightningElement, track, api } from 'lwc';
 import saveFile from '@salesforce/apex/UploadImageCTRL.saveFile';
 import releatedFiles from '@salesforce/apex/UploadImageCTRL.releatedFiles';

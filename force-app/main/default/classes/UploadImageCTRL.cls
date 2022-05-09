@@ -1,3 +1,9 @@
+/**
+ * @Descrição               : Salvar e Editar a imagem do Pet
+ * @Autor                   : C. Vinícius Santos (c.viniciussantos@outlook.com)
+ * @Ultima modificação em   : 08-05-2022
+ * @Ultima modificação por  : C. Vinícius Santos (c.viniciussantos@outlook.com)
+**/
 public inherited sharing class UploadImageCTRL {
     
     @AuraEnabled

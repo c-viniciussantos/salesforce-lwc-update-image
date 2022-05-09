@@ -1,3 +1,9 @@
+/**
+ * @Descrição               : Controller para salvar e editar imagem
+ * @Autor                   : C. Vinícius Santos (c.viniciussantos@outlook.com)
+ * @Ultima modificação em   : 08-05-2022
+ * @Ultima modificação por  : C. Vinícius Santos (c.viniciussantos@outlook.com)
+**/
 public class ImagemController {
     
     @AuraEnabled

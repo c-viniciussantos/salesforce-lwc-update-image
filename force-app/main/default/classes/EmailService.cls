@@ -1,3 +1,9 @@
+/**
+ * @Descrição               : Disparar um serviço de email customizado
+ * @Autor                   : C. Vinícius Santos (c.viniciussantos@outlook.com)
+ * @Ultima modificação em   : 08-05-2022
+ * @Ultima modificação por  : C. Vinícius Santos (c.viniciussantos@outlook.com)
+**/
 public class EmailService {
 
     public static void enviarEmailBuscarPet(Contact contato){

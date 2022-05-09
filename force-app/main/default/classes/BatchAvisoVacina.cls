@@ -1,3 +1,9 @@
+/**
+ * @Descrição               : Batch onde identifica se há a necessidade de vacinar novamente e cria uma tarefa para o dono
+ * @Autor                   : C. Vinícius Santos (c.viniciussantos@outlook.com)
+ * @Ultima modificação em   : 08-05-2022
+ * @Ultima modificação por  : C. Vinícius Santos (c.viniciussantos@outlook.com)
+**/
 public class BatchAvisoVacina implements Database.Batchable<SObject>{
     
     public Integer registrosProcessados = 0;

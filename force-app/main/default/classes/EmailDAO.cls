@@ -1,3 +1,9 @@
+/** 
+ * @Descrição               : Query que retorna o email da org e template de email
+ * @Autor                   : C. Vinícius Santos (c.viniciussantos@outlook.com)
+ * @Ultima modificação em   : 08-05-2022
+ * @Ultima modificação por  : C. Vinícius Santos (c.viniciussantos@outlook.com)
+**/
 public class EmailDAO {
     
     public static OrgWideEmailAddress getIdEmailOrg(String email){
