@@ -17,7 +17,7 @@ Tabela de conteúdos
 adoções de pets.</p>
 
 <h2>Status do Projeto</h2>
-Em andamento...
+<p>Em andamento...</p>
 
 <h2>Desafio</h2>
 
