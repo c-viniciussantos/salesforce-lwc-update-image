@@ -16,6 +16,9 @@ Tabela de conteúdos
 <p>O objetivo da solução é criar um aplicativo no Salesforce para controlar e registrar as
 adoções de pets.</p>
 
+<h2>Status do Projeto</h2>
+Em andamento...
+
 <h2>Desafio</h2>
 
 - [ ] **Criar Objetos Personalizados**
