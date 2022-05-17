@@ -5,7 +5,7 @@ Tabela de conteúdos
 <!--ts-->
 * [Sobre](#Sobre)
 * [Solução](#Solução)
-* [Status do Projeto](#StatusDoProjeto)
+* [Status do Projeto](#status-do-projeto)
 * [Desafio](#Desafio)
 <!--te-->
 
